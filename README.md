@@ -110,6 +110,8 @@
 | `%` | double-oh-seven |
 | `&.` | lonely operator |
 | `<<~` | squiqqly heredoc |
+| `-@` | unary Operator |
+| `+@` | unary Operator |
 
 ## Sources
 
