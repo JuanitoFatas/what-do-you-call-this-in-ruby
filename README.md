@@ -36,7 +36,9 @@
 | `#` | hash |
 | `#` | pound |
 | `#` | mesh |
+| `->` | lambda literal |
 | `->` | stabby lambda |
+| `->` | dash rocket |
 | `||=` | pipe bomb |
 | `||=` | assign unless truthy |
 | `||=` | top hat operator |
@@ -129,6 +131,7 @@
 - https://github.com/bf4/learning/blob/gh-pages/ruby/operators.md
 - http://stackoverflow.com/questions/1345843/what-does-the-question-mark-operator-mean-in-ruby
 - http://symbolhound.com
+- http://stackoverflow.com/questions/8476627/what-do-you-call-the-operator-in-ruby
 
 ## CC0 1.0 Universal
 
