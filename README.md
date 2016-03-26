@@ -119,8 +119,9 @@
 - https://en.wiktionary.org/wiki/octothorpe
 - https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 - https://en.wikipedia.org/wiki/Slash_(punctuation)#Currency
-- https://ruby-operators.herokuapp.com/#/lonely?_k=xa89yg
+- https://ruby-operators.herokuapp.com
 - https://github.com/thoughtbot/guides/issues/381
+- https://github.com/bf4/learning/blob/gh-pages/ruby/operators.md
 
 ## CC0 1.0 Universal
 
