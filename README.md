@@ -113,6 +113,8 @@
 | `<<~` | squiqqly heredoc |
 | `-@` | unary Operator |
 | `+@` | unary Operator |
+| `<<-` | heredoc |
+| `&:-@` | surprise |
 
 ## Sources
 
@@ -126,6 +128,7 @@
 - https://github.com/thoughtbot/guides/issues/381
 - https://github.com/bf4/learning/blob/gh-pages/ruby/operators.md
 - http://stackoverflow.com/questions/1345843/what-does-the-question-mark-operator-mean-in-ruby
+- http://symbolhound.com
 
 ## CC0 1.0 Universal
 
