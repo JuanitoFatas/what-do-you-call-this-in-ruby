@@ -105,6 +105,7 @@
 | `()` | wax/wane |
 | `()` | southern hemisphere |
 | `()` | southern hemisphere |
+| `?` | question mark |
 | `?` | what |
 | `$` | big money |
 | `%` | double-oh-seven |
@@ -124,6 +125,7 @@
 - https://ruby-operators.herokuapp.com
 - https://github.com/thoughtbot/guides/issues/381
 - https://github.com/bf4/learning/blob/gh-pages/ruby/operators.md
+- http://stackoverflow.com/questions/1345843/what-does-the-question-mark-operator-mean-in-ruby
 
 ## CC0 1.0 Universal
 
