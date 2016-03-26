@@ -112,6 +112,7 @@
 | `$` | big money |
 | `%` | double-oh-seven |
 | `&.` | lonely operator |
+| `&.` | safe navigation operator |
 | `<<~` | squiqqly heredoc |
 | `-@` | unary Operator |
 | `+@` | unary Operator |
@@ -133,6 +134,7 @@
 - http://symbolhound.com
 - http://stackoverflow.com/questions/8476627/what-do-you-call-the-operator-in-ruby
 - http://stackoverflow.com/questions/2259775/what-do-you-call-the-operator-in-ruby
+- https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released
 
 ## CC0 1.0 Universal
 
