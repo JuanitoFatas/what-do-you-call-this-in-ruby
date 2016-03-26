@@ -48,7 +48,6 @@
 | `||=` | rose memoization |
 | `||=` | rose caching |
 | `||=` | t-square |
-| trailing comma | the Livingston-Gray comma |
 | `<%=` | skull tag |
 | `!` | bang |
 | `!` | wow |
@@ -119,6 +118,7 @@
 | `+@` | unary operator |
 | `<<-` | heredoc |
 | `&:-@` | surprise |
+| trailing comma | the Livingston-Gray comma |
 
 ## Sources
 
