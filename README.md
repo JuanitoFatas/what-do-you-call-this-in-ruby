@@ -55,7 +55,9 @@
 | `*` | splat |
 | `*` | twinkle |
 | `{}` | curly |
-| `()` | paren |
+| `()` | parens |
+| `()` | wax/wane |
+| `()` | southern hemisphere |
 | `[]` | bracket |
 | `?:` | elvis |
 | `?:` | conditional operator |
@@ -106,9 +108,6 @@
 | `!!!` | Yoda operator |
 | `'` | sparks |
 | `"` | rabbit ears |
-| `()` | wax/wane |
-| `()` | southern hemisphere |
-| `()` | southern hemisphere |
 | `?` | question mark |
 | `?` | what |
 | `$` | big money |
