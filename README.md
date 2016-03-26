@@ -1,4 +1,4 @@
-# How do you call this in Ruby?
+# What do you call this in Ruby?
 
 | What? | Name |
 | ----- | ---- |
@@ -132,4 +132,4 @@
 
 ## CC0 1.0 Universal
 
-To the extent possible under law, @JuanitoFatas has waived all copyright and related or neighboring rights to "how-do-you-call-this-in-ruby".
+To the extent possible under law, @JuanitoFatas has waived all copyright and related or neighboring rights to "what-do-you-call-this-in-ruby".
