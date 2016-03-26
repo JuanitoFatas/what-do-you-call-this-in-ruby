@@ -132,6 +132,7 @@
 - http://stackoverflow.com/questions/1345843/what-does-the-question-mark-operator-mean-in-ruby
 - http://symbolhound.com
 - http://stackoverflow.com/questions/8476627/what-do-you-call-the-operator-in-ruby
+- http://stackoverflow.com/questions/2259775/what-do-you-call-the-operator-in-ruby
 
 ## CC0 1.0 Universal
 
