@@ -114,8 +114,8 @@
 | `&.` | lonely operator |
 | `&.` | safe navigation operator |
 | `<<~` | squiqqly heredoc |
-| `-@` | unary Operator |
-| `+@` | unary Operator |
+| `-@` | unary operator |
+| `+@` | unary operator |
 | `<<-` | heredoc |
 | `&:-@` | surprise |
 
