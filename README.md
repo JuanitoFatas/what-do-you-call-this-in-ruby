@@ -2,113 +2,47 @@
 
 | What? | Name |
 | ----- | ---- |
-| `=>` | hashrocket |
-| `=>` | heavy arrow |
-| `=>` | fat arrow |
+| `=>` | hashrocket, heavy arrow, fat arrow |
 | `<=>` | spaceship |
-| `=` | equal |
-| `=` | half mesh |
+| `=` | equal, half mesh |
 | `==` | equals |
 | `===` | threequals |
 | `!=` | not equals |
 | `<=` | less than or equals |
 | `>=` | greater than or equals |
 | `=~` | kind of equals |
-| `=~` | matches |
-| `=~` | is like |
-| `=~` | eek squeak |
-| `=~` | cigarette operator |
-| `=~` | equal like |
-| `=~` | bacon cannon |
-| `~` | tilde |
-| `~` | twiddle |
-| `~>` | approximately greater |
-| `~>` | approximate |
-| `~>` | optimistic |
-| `~>` | version match operator |
-| `~>` | twiddlewalka |
-| `~>` | pessimisive match |
-| `~>` | pessimistic operator |
-| `~>` | roughly equals |
-| `~>` | harpoon |
-| `~>` | tadpole |
-| `#` | octothorpe |
-| `#` | hash |
-| `#` | pound |
-| `#` | mesh |
-| `->` | lambda literal |
-| `->` | stabby lambda |
-| `->` | dash rocket |
-| `||=` | pipe bomb |
-| `||=` | assign unless truthy |
-| `||=` | top hat operator |
-| `||=` | birthday cake operator |
-| `||=` | hammer |
-| `||=` | or equals |
-| `||=` | rose memoization |
-| `||=` | rose caching |
-| `||=` | t-square |
+| `=~` | matches, is like, eek squeak, cigarette operator, equal like, bacon cannon |
+| `~` | tilde, twiddle |
+| `~>` | approximately greater, approximate, optimistic, version match operator, twiddlewalka, pessimisive match, pessimistic operator, roughly equals, harpoon,  tadpole |
+| `#` | octothorpe, hash, pound, mesh |
+| `->` | lambda literal, stabby lambda, dash rocket |
+| `||=` | pipe bomb, assign unless truthy, top hat operator, birthday cake operator, hammer, or equals, rose memoization, rose caching, t-square |
 | `<%=` | skull tag |
-| `!` | bang |
-| `!` | wow |
-| `*` | splat |
-| `*` | twinkle |
+| `!` | bang, wow |
+| `*` | splat, twinkle |
 | `{}` | curly |
-| `()` | parens |
-| `()` | wax/wane |
-| `()` | southern hemisphere |
+| `()` | parens, wax/wane, southern hemisphere |
 | `[]` | bracket |
-| `?:` | elvis |
-| `?:` | conditional operator |
-| `?:` | ternary if |
+| `?:` | elvis, conditional operator, ternary if |
 | `#{}` | crab clows |
-| `**` | constellation |
-| `**` | double splat |
-| `**` | binary splat |
+| `**` | constellation, double splat, binary splat |
 | `!~` | doesn't match |
 | `&&=` | assign unless falsy |
-| `|` | bitwise |
-| `|` | pipe |
+| `|` | bitwise, pipe |
 | `&foo` | proc operator |
 | `&:foo` | symbol to proc operator |
-| `<<` | append operator |
-| `<<` | shovel |
-| `<<` | back shovel |
-| `<<` | chevron |
-| `<<` | exxon |
+| `<<` | append operator, shovel, back shovel, chevron, exxon |
 | `>>` | forward shovel |
-| `^` | carat |
-| `^` | hat |
-| `^` | exor |
-| `^` | sharkfin |
-| `^` | up |
-| `@` | at sign |
-| `@` | strudle |
-| `@` | whirlpool |
-| `@` | spiral |
+| `^` | carat, hat, exor, sharkfin, up |
+| `@` | at sign, strudle, whirlpool, spiral |
 | `*args | stargs |
-| `/` | whack |
-| `/` | solidus |
-| `&` | pretzel |
-| `&` | ampersand |
-| `_` | unused variable |
-| `_` | blank |
-| `_` | trash |
-| `_` | wild card |
-| `_` | don't care |
-| `_` | whatever |
-| `_` | meh |
-| `_` | undervar |
-| `_` | skim |
-| `!!!` | mad hype |
-| `!!!` | temporarily reverse the value of this bool to try something out, but it should stand out enough that I don't accidentally leave it in. |
-| `!!!` | tribble |
-| `!!!` | Tri-not |
-| `!!!` | Yoda operator |
+| `/` | whack, solidus |
+| `&` | pretzel, ampersand |
+| `_` | unused variable, blank, trash, wild card, don't care, whatever, meh, undervar, skim |
+| `!!!` | mad hype, temporarily reverse the value of this bool to try something out, but it should stand out enough that I don't accidentally leave it in., tribble, Tri-not, Yoda operator |
 | `'` | sparks |
 | `"` | rabbit ears |
-| `?` | question mark |
-| `?` | what |
+| `?` | question mark, what |
 | `$` | big money |
 | `%` | double-oh-seven |
 | `&.` | lonely operator |
