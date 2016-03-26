@@ -138,6 +138,7 @@
 - http://stackoverflow.com/questions/2259775/what-do-you-call-the-operator-in-ruby
 - https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released
 - http://stackoverflow.com/questions/664978/what-do-you-call-the-operator-in-ruby-when-its-used-for-appending-stuff
+- http://stackoverflow.com/questions/2697024/what-are-and-in-ruby/2697187#2697187
 
 ## CC0 1.0 Universal
 
