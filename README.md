@@ -133,6 +133,7 @@
 | `..` | range |
 | `..` | flip-flop |
 | `...` | here be dragons |
+| `...` | ellipsis |
 
 Missing anything? Please send a Pull Request!
 
