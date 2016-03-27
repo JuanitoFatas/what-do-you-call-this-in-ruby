@@ -134,6 +134,8 @@ Missing anything? Please send a Pull Request!
 
 [Join the discussion on Reddit](https://www.reddit.com/r/ruby/comments/4c2kqr/what_do_you_call_this_in_ruby).
 
+[Join the discussion on Hacker News](https://news.ycombinator.com/item?id=11368448).
+
 - http://parley.rubyrogues.com/t/operator-nicknames/704/13
 - https://github.com/rubygems/rubygems/pull/123
 - https://github.com/CocoaPods/Core/pull/76
