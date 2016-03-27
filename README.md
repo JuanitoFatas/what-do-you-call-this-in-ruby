@@ -33,6 +33,7 @@
 | `~>` | roughly equals |
 | `~>` | harpoon |
 | `~>` | tadpole |
+| `~>` | spermy operator |
 | `#` | octothorpe |
 | `#` | hash |
 | `#` | pound |
