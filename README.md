@@ -144,7 +144,7 @@
 | `...` | here be dragons |
 | `...` | ellipsis |
 | `&&` | and |
-| `||` | and |
+| `||` | or |
 
 Missing anything? Please send a Pull Request!
 
