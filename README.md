@@ -21,6 +21,7 @@
 | `=~` | cigarette operator |
 | `=~` | equal like |
 | `=~` | bacon cannon |
+| `=~` | pretty much |
 | `~` | tilde |
 | `~` | twiddle |
 | `~` | squiggle |
@@ -89,6 +90,7 @@
 | `<<` | chevron |
 | `<<` | exxon |
 | `<<` | gazinta |
+| `<<` | inhales |
 | `>>` | forward shovel |
 | `^` | carat |
 | `^` | hat |
@@ -118,6 +120,7 @@
 | `_` | undervar |
 | `_` | skim |
 | `_` | underscore |
+| `_` | disgraceful |
 | `!!!` | mad hype |
 | `!!!` | temporarily reverse the value of this bool to try something out, but it should stand out enough that I don't accidentally leave it in. |
 | `!!!` | tribble |
