@@ -64,6 +64,7 @@
 | `()` | wax/wane |
 | `()` | southern hemisphere |
 | `[]` | brackets |
+| `[]` | squadrons |
 | `foo[0]` | sub |
 | `?:` | elvis |
 | `?:` | conditional operator |
