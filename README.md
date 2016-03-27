@@ -56,6 +56,7 @@
 | `*` | splat |
 | `*` | twinkle |
 | `{}` | curly |
+| `{}` | squiggly brackets |
 | `()` | parens |
 | `()` | wax/wane |
 | `()` | southern hemisphere |
