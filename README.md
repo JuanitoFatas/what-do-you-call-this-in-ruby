@@ -66,6 +66,7 @@
 | `?:` | conditional operator |
 | `?:` | ternary if |
 | `#{}` | crab clows |
+| `#{}` | insert |
 | `**` | constellation |
 | `**` | double splat |
 | `**` | binary splat |
