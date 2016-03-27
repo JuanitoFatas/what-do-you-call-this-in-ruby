@@ -52,6 +52,7 @@
 | `||=` | t-square |
 | `||=` | duck operator |
 | `<%=` | skull tag |
+| `!` | not |
 | `!` | bang |
 | `!` | wow |
 | `*` | splat |
@@ -142,6 +143,8 @@
 | `..` | flip-flop |
 | `...` | here be dragons |
 | `...` | ellipsis |
+| `&&` | and |
+| `||` | and |
 
 Missing anything? Please send a Pull Request!
 
