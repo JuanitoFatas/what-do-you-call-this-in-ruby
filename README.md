@@ -70,7 +70,7 @@
 | `?:` | elvis |
 | `?:` | conditional operator |
 | `?:` | ternary if |
-| `#{}` | crab clows |
+| `#{}` | crab claws |
 | `#{}` | insert |
 | `**` | constellation |
 | `**` | double splat |
