@@ -60,6 +60,7 @@
 | `()` | wax/wane |
 | `()` | southern hemisphere |
 | `[]` | bracket |
+| `foo[0]` | sub |
 | `?:` | elvis |
 | `?:` | conditional operator |
 | `?:` | ternary if |
