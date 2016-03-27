@@ -119,6 +119,8 @@
 | `<<-` | heredoc |
 | `&:-@` | surprise |
 | trailing comma | the Livingston-Gray comma |
+| `..` | range |
+| `..` | flip-flop |
 
 ## Sources
 
