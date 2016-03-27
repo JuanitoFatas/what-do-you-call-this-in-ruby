@@ -122,6 +122,8 @@
 | `$` | big money |
 | `$` | dollar |
 | `%` | double-oh-seven |
+| `%` | mod |
+| `%` | percent |
 | `&.` | lonely operator |
 | `&.` | safe navigation operator |
 | `<<~` | squiggly heredoc |
