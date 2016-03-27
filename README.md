@@ -163,6 +163,7 @@ Missing anything? Please send a Pull Request!
 - http://stackoverflow.com/questions/2697024/what-are-and-in-ruby/2697187#2697187
 - http://stackoverflow.com/questions/1217088/what-does-mapname-mean-in-ruby#comment4137004_1217088
 - http://www.catb.org/jargon/html/A/ASCII.html
+- http://www.muppetlabs.com/~breadbox/intercal-man/tonsila.html
 
 ## Friends
 
