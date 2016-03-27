@@ -100,6 +100,7 @@
 | `@` | whirlpool |
 | `@` | spiral |
 | `*args` | stargs |
+| `/` | slash |
 | `/` | whack |
 | `/` | solidus |
 | `\` | backwhack |
