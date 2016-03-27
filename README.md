@@ -170,6 +170,7 @@ Missing anything? Please send a Pull Request!
 - http://stackoverflow.com/questions/1217088/what-does-mapname-mean-in-ruby#comment4137004_1217088
 - http://www.catb.org/jargon/html/A/ASCII.html
 - http://www.muppetlabs.com/~breadbox/intercal-man/tonsila.html
+- https://twitter.com/HaggardHawks/status/713966036337303552
 
 ## Friends
 
