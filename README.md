@@ -118,7 +118,7 @@
 | `%` | double-oh-seven |
 | `&.` | lonely operator |
 | `&.` | safe navigation operator |
-| `<<~` | squiqqly heredoc |
+| `<<~` | squiggly heredoc |
 | `-@` | unary operator |
 | `+@` | unary operator |
 | `<<-` | heredoc |
