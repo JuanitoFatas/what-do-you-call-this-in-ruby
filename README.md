@@ -122,6 +122,8 @@
 | `..` | range |
 | `..` | flip-flop |
 
+Missing anything? Please send a Pull Request!
+
 ## Sources
 
 - http://parley.rubyrogues.com/t/operator-nicknames/704/13
