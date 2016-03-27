@@ -9,6 +9,7 @@
 | `=` | equal |
 | `=` | half mesh |
 | `==` | equals |
+| `==` | unassembled hashtag |
 | `===` | threequals |
 | `!=` | not equals |
 | `<=` | less than or equals |
@@ -71,6 +72,7 @@
 | `|` | pipe |
 | `&foo` | proc operator |
 | `&:foo` | symbol to proc operator |
+| `&:foo` | pretzel colon |
 | `<<` | append operator |
 | `<<` | shovel |
 | `<<` | back shovel |
@@ -142,6 +144,7 @@ Missing anything? Please send a Pull Request!
 - https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released
 - http://stackoverflow.com/questions/664978/what-do-you-call-the-operator-in-ruby-when-its-used-for-appending-stuff
 - http://stackoverflow.com/questions/2697024/what-are-and-in-ruby/2697187#2697187
+- http://stackoverflow.com/questions/1217088/what-does-mapname-mean-in-ruby#comment4137004_1217088
 
 ## CC0 1.0 Universal
 
