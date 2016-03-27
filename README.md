@@ -126,6 +126,7 @@
 | trailing comma | the Livingston-Gray comma |
 | `..` | range |
 | `..` | flip-flop |
+| `...` | here be dragons |
 
 Missing anything? Please send a Pull Request!
 
