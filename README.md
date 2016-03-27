@@ -49,6 +49,7 @@
 | `||=` | rose memoization |
 | `||=` | rose caching |
 | `||=` | t-square |
+| `||=` | duck operator |
 | `<%=` | skull tag |
 | `!` | bang |
 | `!` | wow |
@@ -127,6 +128,8 @@
 Missing anything? Please send a Pull Request!
 
 ## Sources
+
+[Join the discussion on Reddit](https://www.reddit.com/r/ruby/comments/4c2kqr/what_do_you_call_this_in_ruby).
 
 - http://parley.rubyrogues.com/t/operator-nicknames/704/13
 - https://github.com/rubygems/rubygems/pull/123
