@@ -23,6 +23,7 @@
 | `=~` | bacon cannon |
 | `~` | tilde |
 | `~` | twiddle |
+| `~` | squiggle |
 | `~>` | approximately greater |
 | `~>` | approximate |
 | `~>` | optimistic |
