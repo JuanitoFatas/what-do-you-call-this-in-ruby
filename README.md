@@ -79,6 +79,7 @@
 | `&:foo` | symbol to proc operator |
 | `&:foo` | pretzel colon |
 | `<<` | append operator |
+| `<<` | push |
 | `<<` | shovel |
 | `<<` | back shovel |
 | `<<` | chevron |
@@ -108,6 +109,7 @@
 | `_` | meh |
 | `_` | undervar |
 | `_` | skim |
+| `_` | underscore |
 | `!!!` | mad hype |
 | `!!!` | temporarily reverse the value of this bool to try something out, but it should stand out enough that I don't accidentally leave it in. |
 | `!!!` | tribble |
