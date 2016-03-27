@@ -56,12 +56,14 @@
 | `!` | wow |
 | `*` | splat |
 | `*` | twinkle |
+| `{}` | braces |
 | `{}` | curly |
 | `{}` | squiggly brackets |
 | `()` | parens |
+| `()` | parentheses |
 | `()` | wax/wane |
 | `()` | southern hemisphere |
-| `[]` | bracket |
+| `[]` | brackets |
 | `foo[0]` | sub |
 | `?:` | elvis |
 | `?:` | conditional operator |
