@@ -82,6 +82,7 @@
 | `<<` | back shovel |
 | `<<` | chevron |
 | `<<` | exxon |
+| `<<` | gazinta |
 | `>>` | forward shovel |
 | `^` | carat |
 | `^` | hat |
