@@ -86,7 +86,7 @@
 | `@` | strudle |
 | `@` | whirlpool |
 | `@` | spiral |
-| `*args | stargs |
+| `*args` | stargs |
 | `/` | whack |
 | `/` | solidus |
 | `&` | pretzel |
