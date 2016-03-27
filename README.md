@@ -120,6 +120,7 @@
 | `?` | question mark |
 | `?` | what |
 | `$` | big money |
+| `$` | dollar |
 | `%` | double-oh-seven |
 | `&.` | lonely operator |
 | `&.` | safe navigation operator |
