@@ -100,6 +100,9 @@
 | `*args` | stargs |
 | `/` | whack |
 | `/` | solidus |
+| `\` | backwhack |
+| `\` | backslash |
+| `\` | escape |
 | `&` | pretzel |
 | `&` | ampersand |
 | `_` | unused variable |
