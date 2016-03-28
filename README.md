@@ -83,6 +83,7 @@
 | `&foo` | proc operator |
 | `&:foo` | symbol to proc operator |
 | `&:foo` | pretzel colon |
+| `&:foo` | salted pretzel operator |
 | `<<` | append operator |
 | `<<` | push |
 | `<<` | shovel |
