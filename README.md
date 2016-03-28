@@ -5,6 +5,7 @@
 | `=>` | hashrocket |
 | `=>` | heavy arrow |
 | `=>` | fat arrow |
+| `=>` | rocket dagger |
 | `<=>` | spaceship |
 | `=` | equal |
 | `=` | half mesh |
