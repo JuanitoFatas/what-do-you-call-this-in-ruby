@@ -119,6 +119,7 @@
 | `_` | whatever |
 | `_` | meh |
 | `_` | undervar |
+| `_` | skid |
 | `_` | skim |
 | `_` | underscore |
 | `_` | disgraceful |
