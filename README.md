@@ -82,6 +82,7 @@
 | `**` | double splat |
 | `**` | binary splat |
 | `!~` | doesn't match |
+| `!~` | bacon bat |
 | `&&=` | assign unless falsy |
 | `|` | bitwise |
 | `|` | pipe |
