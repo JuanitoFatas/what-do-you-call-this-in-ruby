@@ -54,6 +54,8 @@
 | `||=` | t-square |
 | `||=` | duck operator |
 | `<%=` | skull tag |
+| `<%=` | angry squid |
+| `<%=` | puzzled squid |
 | `!` | not |
 | `!` | bang |
 | `!` | wow |
