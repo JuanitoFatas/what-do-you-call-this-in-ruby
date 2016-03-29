@@ -31,7 +31,7 @@
 | `~>` | approximate |
 | `~>` | optimistic |
 | `~>` | version match operator |
-| `~>` | twiddlewalka |
+| `~>` | twiddlewakka |
 | `~>` | pessimisive match |
 | `~>` | pessimistic operator |
 | `~>` | roughly equals |
