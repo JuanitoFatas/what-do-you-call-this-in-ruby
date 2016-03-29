@@ -138,6 +138,8 @@
 | `%` | double-oh-seven |
 | `%` | mod |
 | `%` | percent |
+| `%>` | ice cream cone |
+| `%>` | waffle cone |
 | `&.` | lonely operator |
 | `&.` | safe navigation operator |
 | `<<~` | squiggly heredoc |
