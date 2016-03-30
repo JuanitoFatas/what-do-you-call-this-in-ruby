@@ -99,7 +99,7 @@
 | `<<` | gazinta |
 | `<<` | inhales |
 | `>>` | forward shovel |
-| `^` | carat |
+| `^` | caret |
 | `^` | hat |
 | `^` | exor |
 | `^` | sharkfin |
