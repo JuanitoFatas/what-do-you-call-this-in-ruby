@@ -63,6 +63,7 @@
 | `!!` | double bang |
 | `*` | splat |
 | `*` | twinkle |
+| `*` | star |
 | `{}` | braces |
 | `{}` | curly |
 | `{}` | squiggly brackets |
