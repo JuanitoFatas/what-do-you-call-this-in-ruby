@@ -61,6 +61,7 @@
 | `!` | bang |
 | `!` | wow |
 | `!!` | double bang |
+| `!!` | bang bang |
 | `*` | splat |
 | `*` | twinkle |
 | `{}` | braces |
