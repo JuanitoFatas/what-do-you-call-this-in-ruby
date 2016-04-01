@@ -40,6 +40,7 @@
 | `~>` | roughly equals |
 | `~>` | harpoon |
 | `~>` | tadpole |
+| `~>` | sperm |
 | `#` | octothorpe |
 | `#` | hash |
 | `#` | pound |
