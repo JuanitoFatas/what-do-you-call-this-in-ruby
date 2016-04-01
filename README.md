@@ -41,6 +41,7 @@
 | `~>` | harpoon |
 | `~>` | tadpole |
 | `~>` | sperm |
+| `~>` | spermy operator |
 | `#` | octothorpe |
 | `#` | hash |
 | `#` | pound |
