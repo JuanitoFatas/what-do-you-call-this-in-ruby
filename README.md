@@ -8,6 +8,7 @@
 | `=>` | fat comma |
 | `=>` | rocket dagger |
 | `<=>` | spaceship |
+| `<=>` | ufo |
 | `=` | equal |
 | `=` | half mesh |
 | `=` | gets |
