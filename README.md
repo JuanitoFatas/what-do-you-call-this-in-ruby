@@ -10,6 +10,7 @@
 | `<=>` | spaceship |
 | `=` | equal |
 | `=` | half mesh |
+| `=` | gets |
 | `==` | equals |
 | `==` | unassembled hashtag |
 | `===` | threequals |
@@ -54,6 +55,7 @@
 | `||=` | rose caching |
 | `||=` | t-square |
 | `||=` | duck operator |
+| `||=` | or-gets |
 | `<%=` | skull tag |
 | `<%=` | angry squid |
 | `<%=` | puzzled squid |
@@ -86,6 +88,7 @@
 | `!~` | doesn't match |
 | `!~` | bacon bat |
 | `&&=` | assign unless falsy |
+| `&&=` | and-gets |
 | `|` | bitwise |
 | `|` | pipe |
 | `&foo` | proc operator |
