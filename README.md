@@ -15,6 +15,7 @@
 | `==` | equals |
 | `==` | unassembled hashtag |
 | `===` | threequals |
+| `===` | really really really equals |
 | `!=` | not equals |
 | `<=` | less than or equals |
 | `>=` | greater than or equals |
