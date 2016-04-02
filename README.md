@@ -49,6 +49,7 @@
 | `->` | lambda literal |
 | `->` | stabby lambda |
 | `->` | dash rocket |
+| `->` | thin arrow |
 | `||=` | pipe bomb |
 | `||=` | assign unless truthy |
 | `||=` | top hat operator |
