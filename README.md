@@ -143,6 +143,7 @@
 | `!!!` | tribble |
 | `!!!` | Tri-not |
 | `!!!` | Yoda operator |
+| `!!!` | bang bang bang |
 | `'` | sparks |
 | `"` | rabbit ears |
 | `?` | question mark |
