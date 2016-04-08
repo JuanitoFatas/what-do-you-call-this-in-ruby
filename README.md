@@ -158,6 +158,7 @@
 | `%>` | waffle cone |
 | `&.` | lonely operator |
 | `&.` | safe navigation operator |
+| `&.` | maybe |
 | `<<~` | squiggly heredoc |
 | `-@` | unary operator |
 | `+@` | unary operator |
