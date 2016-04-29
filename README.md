@@ -64,6 +64,7 @@
 | `<%=` | skull tag |
 | `<%=` | angry squid |
 | `<%=` | puzzled squid |
+| `<%` | clown hats |
 | `!` | not |
 | `!` | bang |
 | `!` | wow |
