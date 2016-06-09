@@ -150,6 +150,7 @@
 | `"` | rabbit ears |
 | `?` | question mark |
 | `?` | what |
+| `?` | eh? |
 | `$` | big money |
 | `$` | dollar |
 | `%` | double-oh-seven |
