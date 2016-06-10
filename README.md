@@ -170,6 +170,7 @@
 | `..` | flip-flop |
 | `...` | here be dragons |
 | `...` | ellipsis |
+| `.?` | claw of demeter |
 | `&&` | and |
 | `||` | or |
 
