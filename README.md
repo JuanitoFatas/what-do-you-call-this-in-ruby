@@ -61,9 +61,11 @@
 | `||=` | t-square |
 | `||=` | duck operator |
 | `||=` | or-gets |
+| `||=` | robot duck |
 | `<%=` | skull tag |
 | `<%=` | angry squid |
 | `<%=` | puzzled squid |
+| `<%=` | cthulhu |
 | `<%` | clown hats |
 | `!` | not |
 | `!` | bang |
@@ -81,6 +83,7 @@
 | `()` | wax/wane |
 | `()` | southern hemisphere |
 | `[]` | brackets |
+| `[]` | squares |
 | `[ ]` | squadrons |
 | `foo[0]` | sub |
 | `?:` | elvis |
