@@ -27,6 +27,7 @@
 | `=~` | equal like |
 | `=~` | bacon cannon |
 | `=~` | pretty much |
+| `=~` | tadpole |
 | `~` | tilde |
 | `~` | twiddle |
 | `~` | squiggle |
