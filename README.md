@@ -19,6 +19,7 @@
 | `!=` | not equals |
 | `<=` | less than or equals |
 | `>=` | greater than or equals |
+| `>=` | greater-than-or-equal-to |
 | `=~` | kind of equals |
 | `=~` | matches |
 | `=~` | is like |
@@ -43,6 +44,7 @@
 | `~>` | tadpole |
 | `~>` | sperm |
 | `~>` | spermy operator |
+| `~>` | eating bacon |
 | `#` | octothorpe |
 | `#` | hash |
 | `#` | pound |
