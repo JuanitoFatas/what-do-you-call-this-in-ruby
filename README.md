@@ -30,6 +30,7 @@
 | `=~` | pretty much |
 | `=~` | tadpole |
 | `~` | tilde |
+| `~` | bacon |
 | `~` | twiddle |
 | `~` | squiggle |
 | `~>` | approximately greater |
