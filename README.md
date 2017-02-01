@@ -35,6 +35,7 @@
 | `~` | squiggle |
 | `~>` | approximately greater |
 | `~>` | approximate |
+| `~>` | compatible with version |
 | `~>` | optimistic |
 | `~>` | version match operator |
 | `~>` | twiddlewakka |
@@ -210,6 +211,7 @@ Missing anything? Please send a Pull Request!
 - http://www.catb.org/jargon/html/A/ASCII.html
 - http://www.muppetlabs.com/~breadbox/intercal-man/tonsila.html
 - https://twitter.com/HaggardHawks/status/713966036337303552
+- https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md#version-requirement
 
 ## Friends
 
