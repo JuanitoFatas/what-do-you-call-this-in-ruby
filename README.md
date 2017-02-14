@@ -87,6 +87,7 @@
 | `()` | parentheses |
 | `()` | wax/wane |
 | `()` | southern hemisphere |
+| `()` | bubble |
 | `[]` | brackets |
 | `[]` | squares |
 | `[ ]` | squadrons |
