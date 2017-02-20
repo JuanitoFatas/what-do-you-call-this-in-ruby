@@ -10,6 +10,7 @@
 | `<=>` | spaceship |
 | `<=>` | ufo |
 | `=` | equal |
+| `=` | assignment operator |
 | `=` | half mesh |
 | `=` | gets |
 | `==` | equals |
