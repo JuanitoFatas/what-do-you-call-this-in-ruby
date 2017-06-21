@@ -56,18 +56,18 @@
 | `->` | stabby lambda |
 | `->` | dash rocket |
 | `->` | thin arrow |
-| `||=` | pipe bomb |
-| `||=` | assign unless truthy |
-| `||=` | top hat operator |
-| `||=` | birthday cake operator |
-| `||=` | hammer |
-| `||=` | or equals |
-| `||=` | rose memoization |
-| `||=` | rose caching |
-| `||=` | t-square |
-| `||=` | duck operator |
-| `||=` | or-gets |
-| `||=` | robot duck |
+| `\|\|=` | pipe bomb |
+| `\|\|=` | assign unless truthy |
+| `\|\|=` | top hat operator |
+| `\|\|=` | birthday cake operator |
+| `\|\|=` | hammer |
+| `\|\|=` | or equals |
+| `\|\|=` | rose memoization |
+| `\|\|=` | rose caching |
+| `\|\|=` | t-square |
+| `\|\|=` | duck operator |
+| `\|\|=` | or-gets |
+| `\|\|=` | robot duck |
 | `<%=` | skull tag |
 | `<%=` | angry squid |
 | `<%=` | puzzled squid |
@@ -183,7 +183,7 @@
 | `...` | ellipsis |
 | `.?` | claw of demeter |
 | `&&` | and |
-| `||` | or |
+| `\|\|` | or |
 
 Missing anything? Please send a Pull Request!
 
