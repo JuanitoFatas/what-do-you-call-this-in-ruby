@@ -105,8 +105,8 @@
 | `!~` | bacon bat |
 | `&&=` | assign unless falsy |
 | `&&=` | and-gets |
-| `|` | bitwise |
-| `|` | pipe |
+| `\|` | bitwise |
+| `\|` | pipe |
 | `&foo` | proc operator |
 | `&:foo` | symbol to proc operator |
 | `&:foo` | pretzel colon |
