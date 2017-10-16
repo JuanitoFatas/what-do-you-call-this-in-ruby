@@ -56,6 +56,7 @@
 | `->` | stabby lambda |
 | `->` | dash rocket |
 | `->` | thin arrow |
+| `->` | bee sting |
 | `\|\|=` | pipe bomb |
 | `\|\|=` | assign unless truthy |
 | `\|\|=` | top hat operator |
