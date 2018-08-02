@@ -102,6 +102,7 @@
 | `**` | constellation |
 | `**` | double splat |
 | `**` | binary splat |
+| `**_` | mosquito |
 | `!~` | doesn't match |
 | `!~` | bacon bat |
 | `&&=` | assign unless falsy |
