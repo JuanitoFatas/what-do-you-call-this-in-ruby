@@ -97,6 +97,10 @@
 | `?:` | elvis |
 | `?:` | conditional operator |
 | `?:` | ternary if |
+| `?=` | Positive Lookahead |
+| `?<=` | Positive Lookbehind |
+| `?!` | Negative Lookahead |
+| `?<!` | Negative Lookbehind |
 | `#{}` | crab claws |
 | `#{}` | insert |
 | `**` | constellation |
