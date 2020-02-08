@@ -190,6 +190,8 @@
 | `.?` | claw of demeter |
 | `&&` | and |
 | `\|\|` | or |
+| `::` | double colon |
+| `::` | [namespace resolution operator] |
 
 Missing anything? Please send a Pull Request!
 
@@ -229,3 +231,5 @@ Missing anything? Please send a Pull Request!
 ## CC0 1.0 Universal
 
 To the extent possible under law, @JuanitoFatas has waived all copyright and related or neighboring rights to "what-do-you-call-this-in-ruby".
+
+[namespace resolution operator]: https://stackoverflow.com/a/3009565/517868
