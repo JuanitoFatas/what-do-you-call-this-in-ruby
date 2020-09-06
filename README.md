@@ -118,6 +118,7 @@
 | `&:foo` | pretzel colon |
 | `&:foo` | salted pretzel operator |
 | `<<` | append operator |
+| `<<` | accelerator |
 | `<<` | push |
 | `<<` | shovel |
 | `<<` | back shovel |
