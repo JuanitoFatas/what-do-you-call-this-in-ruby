@@ -7,6 +7,7 @@
 | `=>` | fat arrow |
 | `=>` | fat comma |
 | `=>` | rocket dagger |
+| `<=>` | comparison |
 | `<=>` | spaceship |
 | `<=>` | ufo |
 | `=` | equal |
@@ -15,6 +16,7 @@
 | `=` | gets |
 | `==` | equals |
 | `==` | unassembled hashtag |
+| `===` | equivalent |
 | `===` | threequals |
 | `===` | really really really equals |
 | `!=` | not equals |
@@ -73,7 +75,9 @@
 | `<%=` | angry squid |
 | `<%=` | puzzled squid |
 | `<%=` | cthulhu |
+| `<%=` | erb print |
 | `<%` | clown hats |
+| `<%` | erb |
 | `!` | not |
 | `!` | bang |
 | `!` | wow |
@@ -106,6 +110,7 @@
 | `**` | constellation |
 | `**` | double splat |
 | `**` | binary splat |
+| `**` | keyword splat |
 | `**_` | mosquito |
 | `!~` | doesn't match |
 | `!~` | bacon bat |
@@ -156,6 +161,8 @@
 | `_` | skim |
 | `_` | underscore |
 | `_` | disgraceful |
+| `!!` | double bang |
+| `!!` | the booleanator 9000 |
 | `!!!` | mad hype |
 | `!!!` | temporarily reverse the value of this bool to try something out, but it should stand out enough that I don't accidentally leave it in. |
 | `!!!` | tribble |
