@@ -63,7 +63,7 @@
 | `\|\|=` | birthday cake operator |
 | `\|\|=` | hammer |
 | `\|\|=` | or equals |
-| `\|\|=` | rose memoization |
+| `\|\|=` | [rose memoization](https://thepugautomatic.com/2016/01/rose-memoization/) |
 | `\|\|=` | rose caching |
 | `\|\|=` | t-square |
 | `\|\|=` | duck operator |
